@@ -5,7 +5,7 @@ This repository serves as a reference for another repository. The main repositor
 
 ## Purpose
 
-The purpose of this repository is to provide the resources and documentation of the main repository.
+The purpose of this repository is to provide the resources and documentation of the main repository forked and contributed in.
 
 ## Contents
 
